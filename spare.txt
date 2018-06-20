@@ -1,0 +1,10 @@
+<div class="item">
+				<div class="date">
+					<div>2013 - 2014</div>
+				</div>
+				<div class="info">
+					<span class="header">Ticket Backlog</span>
+					<p><b>Problem:</b> Several support tickets were in "open" states past due dates on the internal ticket server. Ticket severity ranged from simple fixes to more severe issues.
+					<p><b>Solution:</b> Tickets were ordered by urgency and then by benefit. Issues that caused system errors or crashes were addressed first, followed by bugs reported by users. Then various QoL changes were implemented for both internal and public-facing systems.
+				</div>
+			</div>
