@@ -68,6 +68,10 @@ body{
 .personal .list .item .info{
 }
 
+.personal .list .item .subitem{
+	font-size: 80%;
+}
+
 .personal .list a{
 	color           : white;
 	text-decoration : none;
